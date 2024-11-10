@@ -1,0 +1,90 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f4;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background: #35424a;
+    color: #ffffff;
+    padding: 20px 0;
+    text-align: center;
+}
+
+nav ul {
+    list-style: none;
+    padding: 0;
+}
+
+nav ul li {
+    display: inline;
+    margin: 0 15px;
+}
+
+nav ul li a {
+    color: #ffffff;
+    text-decoration: none;
+}
+
+h1 {
+    margin: 0;
+}
+.hero {
+    background: linear-gradient(to right, #e66465, #9198e5);
+    color: #ffffff;
+    padding: 20px;
+    text-align: center;
+}
+
+#about {
+    background-color: #f7d794;
+    padding: 20px;
+    text-align: center;
+}
+
+#courses {
+    background-color: #c7ecee;
+    padding: 20px;
+    text-align: center;
+}
+
+#courses ul {
+    list-style: none;
+    padding: 0;
+}
+
+#courses ul li {
+    margin: 10px 0;
+}
+
+#faculty {
+    background-color: #f8a5c2;
+    padding: 20px;
+    text-align: center;
+}
+
+#faculty ul {
+    list-style: none;
+    padding: 0;
+}
+
+#faculty ul li {
+    margin: 10px 0;
+}
+
+#contact {
+    background-color: #f3a683;
+    padding: 20px;
+    text-align: center;
+}
+
+footer {
+    background: #35424a;
+    color: #ffffff;
+    text-align: center;
+    padding: 10px 0;
+    position: relative;
+    bottom: 0;
+    width: 100%;
+}
